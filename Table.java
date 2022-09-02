@@ -9,7 +9,7 @@ class Table {
         int m = sc.nextInt();
         sc.close();
 
-        for (int c = n; n <= m; n++) {
+        for (int a = n; n <= m; n++) {
 
             for (int i = 1; i <= 10; i++) {
 
